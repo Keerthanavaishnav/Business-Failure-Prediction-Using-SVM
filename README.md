@@ -76,7 +76,6 @@ Business_Failure
 
 The complete workflow consists of the following stages.
 
-```
 - Data Collection
 - Data Cleaning
 - Feature Selection
@@ -90,7 +89,6 @@ The complete workflow consists of the following stages.
 - Prediction
 - Performance Evaluation
 
-```
 ---
 
 # Data Preprocessing
@@ -194,8 +192,8 @@ Since the ROC-AUC value is close to **0.5**, the classifier exhibits limited dis
 - Seaborn
 - Scikit-Learn
 - OpenPyXL
-```
-```
+
+
 # Results Interpretation
 
 The model demonstrates moderate predictive performance.
