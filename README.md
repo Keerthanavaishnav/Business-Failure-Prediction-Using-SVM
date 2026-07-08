@@ -169,7 +169,7 @@ Testing - 300
 
 The confusion matrix illustrates the number of correctly and incorrectly classified firms.
 
-![Confusion Matrix](Results/confusion matrix.png)
+![Confusion Matrix](Results/confusion_matrix.png)
 
 
 # ROC Curve
@@ -180,7 +180,7 @@ ROC-AUC obtained: 0.46
 
 Since the ROC-AUC value is close to **0.5**, the classifier exhibits limited discriminative capability.
 
-![ROC Curve](Results/ROC Curve.png)
+![ROC Curve](Results/roc_curve.png)
 
 ---
 
