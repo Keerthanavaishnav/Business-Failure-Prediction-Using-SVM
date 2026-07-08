@@ -180,13 +180,12 @@ The Receiver Operating Characteristic (ROC) Curve evaluates the classifier's abi
 
 ROC-AUC obtained: 0.46
 
-```
 Since the ROC-AUC value is close to **0.5**, the classifier exhibits limited discriminative capability.
 
 ![ROC Curve](Results/ROC Curve.png)
 
 ---
-```
+
 # Libraries Used
 
 - Pandas
